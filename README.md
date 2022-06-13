@@ -23,4 +23,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 ## Proje Resmi
-![Örnek proje resmi](https://www.hizliresim.com/ek5klaj.PNG)
+![Örnek proje resmi](https://i.hizliresim.com/ko1f9og.PNG)
